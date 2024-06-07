@@ -1,0 +1,9 @@
+escalonador.txtFilter
+escalonador.Escalonador
+escalonador.Timer
+escalonador.Escalonador$2
+escalonador.Escalonador$3
+escalonador.Escalonador$1
+escalonador.Escalonador$6
+escalonador.Escalonador$4
+escalonador.Escalonador$5
